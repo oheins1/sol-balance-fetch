@@ -1,4 +1,4 @@
-//! A very simple library to fetch Account Balance from Solana Clusters.
+//library to fetch Account Balance from Solana Clusters.
 
 use std::str::FromStr;
 
